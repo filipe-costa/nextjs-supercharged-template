@@ -1,0 +1,9 @@
+*.json
+*.md
+*.config.js
+public
+.storybook
+stories/assets
+*.css
+.next
+*.svg
